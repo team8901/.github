@@ -68,6 +68,24 @@ Example
 
 ### Name
 
-- 브랜치 네임을 그대로 사용
+- `[WHD-지라이슈번호] 태그: PR제목`
+- 태그는 브랜치의 태그와 동일하게 사용
 - 내용에는 자신이 작업했던 작업 상세하게 기록
 - 모바일 및 웹의 경우 작업한 UI 캡쳐본 업로드
+
+### Tag type
+
+- `feat` : 새로운 기능 추가
+- `chore` : 자잘한 코드 수정
+- `fix` : 에러 및 버그 수정
+- `docs` : 문서 수정
+- `design` : 디자인 관련 코드 추가 및 수정
+- `refactor` : 코드 리팩토링
+
+### Example
+
+```
+[WHD-1] Feat: Add member list page
+
+[WHD-12] Fix: Fix overflow in login page
+```
