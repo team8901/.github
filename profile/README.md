@@ -20,7 +20,8 @@
 - `fix` : 에러 및 버그 수정
 - `docs` : 문서 수정
 - `design` : 디자인 관련 코드 추가 및 수정
-- `refacotr` : 코드 리팩토링
+- `refactor` : 코드 리팩토링
+- `cicd` : 배포 관련 설정 추가 및 수정
 
 ### Example
 
@@ -48,6 +49,7 @@ whd-12_fix-fix_overflow_in_login_page
 - `Docs` : 문서 수정
 - `Design` : 디자인 관련 코드 추가 및 수정
 - `Refator` : 코드 리팩토링
+- `CI/CD` : 배포 관련 설정 추가 및 수정
 
 ### Example
 
