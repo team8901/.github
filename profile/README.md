@@ -10,7 +10,7 @@
 
 ### Name
 
-- `whd-지라이슈번호_태그-브랜치 제목`의 규칙으로 작성
+- `WHD-지라이슈번호_태그-브랜치 제목`의 규칙으로 작성
 - 이슈를 해결하기 위한 브랜치를 만드는 것을 기본으로 함
 
 ### Tag type
@@ -26,11 +26,9 @@
 ### Example
 
 ```
-Example
+WHD-1_feat-add_member_list_page
 
-whd-1_feat-add_member_list_page
-
-whd-12_fix-fix_overflow_in_login_page
+WHD-12_fix-fix_overflow_in_login_page
 ```
 
 ## Commit rule
