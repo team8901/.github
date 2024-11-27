@@ -157,7 +157,7 @@
 
 </br>
   
-![시스템 개요](https://github.com/user-attachments/assets/c42a4106-58bd-481c-b14c-cbcf9d6ced11)
+![시스템 개요](https://github.com/user-attachments/assets/10ed0cc9-c687-4597-bc39-8b0d691df2bf)
 
 </br>
 
@@ -168,7 +168,7 @@
 
 </br>
 
-![시스템 아키텍쳐](https://github.com/user-attachments/assets/e9179e7b-67e8-4ba0-82a3-80a363d8d400)
+![시스템 아키텍쳐](https://github.com/user-attachments/assets/8aea0c2f-73e3-451d-b47e-f7d3e30e33a2)
 
 </details>
 
