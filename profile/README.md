@@ -1,6 +1,6 @@
 ## 📌 우학동: 동아리 관리 자동화 SaaS
 
-![GitHub READM md 메인 이미지 2](https://github.com/user-attachments/assets/125c6c5c-512f-47a9-ab14-f08e229ac016)
+![GitHub READM md 메인 이미지](https://github.com/user-attachments/assets/4c88971e-cbcd-40f8-93a9-880f2452dc0b)
 
 </br>
 
@@ -84,7 +84,7 @@
 
 <div align="center">모바일 앱 UI</div>
 
-![1 - 앱](https://github.com/user-attachments/assets/b6611800-becc-4d9d-ba40-9428d00cfb34)
+![1 - 앱](https://github.com/user-attachments/assets/951098dd-9631-4784-bce6-b9612d004968)
 
 <div align="center">모바일 웹 앱 UI</div>
 
@@ -113,7 +113,7 @@
 
 <div align="center">모바일 앱 UI</div>
 
-![2 - 앱](https://github.com/user-attachments/assets/acfdd9d1-3e92-4dec-b37e-eee5a9c145de)
+![2 - 앱](https://github.com/user-attachments/assets/ac09d68f-cbe0-4a08-95bc-dcb3bc202ea2)
 
 <div align="center">모바일 웹 앱 UI</div>
 
@@ -140,7 +140,7 @@
 
 <div align="center">모바일 앱 UI</div>
 
-![3 - 앱](https://github.com/user-attachments/assets/fd08c924-2311-4d54-bf35-4ed48f6ee490)
+![3 - 앱](https://github.com/user-attachments/assets/a352af31-699f-46d6-a5fa-4a75a8b11973)
 
 <div align="center">모바일 웹 앱 UI</div>
 
@@ -164,11 +164,11 @@
 </details>
 
 <details>
-<summary><b>시스템 아키텍쳐</b></summary>
+<summary><b>CI/CD</b></summary>
 
 </br>
 
-![시스템 아키텍쳐](https://github.com/user-attachments/assets/8aea0c2f-73e3-451d-b47e-f7d3e30e33a2)
+![CICD](https://github.com/user-attachments/assets/1460187e-5881-4d42-8dab-7497e05c422b)
 
 </details>
 
@@ -304,5 +304,33 @@ WHD-12_fix-fix_overflow_in_login_page
 |------|------|
 | Front-End | 프론트엔드는 각 개발 환경이 상이하여 정확한 코드 리뷰가 어려울 수 있으나, 코드 리뷰는 여전히 필요하다. 모바일과 웹 PR에서는 서로를 리뷰어로 지정하여 코드 리뷰를 진행한다. 리뷰어는 폴더 명, 파일명, 변수 명 등이 적절하게 사용되었는지 판단하고, 간단한 로직이나 UI 코드에 대해 궁금한 점을 코멘트로 남기며 상호 간의 코드를 학습한다. 모든 코드를 검토한 이후, 리뷰어가 Merge를 승인하면 PR을 작성한 사람이 Merge를 진행한다. |
 | Back-End | 백엔드에서는 코드 컨벤션이 잘 준수되었는지, 코드에 오류가 없는지를 면밀히 검토한 후, 필요시 코멘트를 남긴다. 리뷰어가 Merge를 승인하거나 보완 요청을 하면, PR을 작성한 사람이 해당 코멘트를 확인하고 이에 따라 수정한 후 Merge를 진행한다. |
+
+</details>
+
+</br>
+
+## 🎉 수상
+
+![KakaoTalk_Photo_2024-12-05-20-14-21](https://github.com/user-attachments/assets/32f36567-9213-4ee2-a457-880c2d58bd10)
+
+<details>
+<summary><b>2024-2 AJOU SOFTCON 최우수상(1위)</b></summary>
+
+</br>
+
+![KakaoTalk_Photo_2024-12-05-19-46-25](https://github.com/user-attachments/assets/04dc828f-ddef-447e-a6f6-aaadfdec25b1)
+
+</br>
+
+</details>
+
+<details>
+<summary><b>2024-2 BM 발명 아이디어 경진대회 최우수상(2위)</b></summary>
+
+</br>
+  
+<img width="639" alt="SCR-20241205-rfcf" src="https://github.com/user-attachments/assets/ec22e2c6-d865-4863-885c-1146dba104d8">
+
+</br>
 
 </details>
